@@ -50,7 +50,7 @@ main{
 }
  
 .select{
-    margin-left: 300px;
+    margin-left: 40%;
     text-align: center;
     background-color: rgb(210, 163, 233);
     width: 300px;
@@ -76,4 +76,8 @@ main{
 }
 .casual{
     margin-top: 50px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
 }
