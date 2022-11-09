@@ -1,0 +1,79 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    margin-left: -10px;
+    height: 65px;
+    margin-top: -10px;
+    width: 100%;
+    background-color: rgba(228, 212, 74, 0.9);
+    top: 0;
+    z-index: 10;
+    padding-right: 50px;
+}
+
+main{
+    line-height: 1.7;
+}
+.logo {
+    width: 75px;
+    margin-top:-5px;
+
+}
+.header-left {
+    float: left;
+    margin-left: 30px;
+}
+.header-right{
+    float: right;
+    font-size: 50px;
+    margin-right:30px;
+    
+}
+
+.header-right a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.header-right a:hover{
+    color: rgb(194, 24, 24);
+}
+
+.lunch {
+    margin-top: 50px;
+    color: brown;
+}
+.standard{
+    margin-top: 100px;
+}
+ 
+.select{
+    margin-left: 300px;
+    text-align: center;
+    background-color: rgb(210, 163, 233);
+    width: 300px;
+    border-style: solid;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.menu {
+    text-align: center;
+
+}
+.menu img{
+    width: 600px;
+}
+
+.flex img{
+    width: 400px;
+}
+.casual{
+    margin-top: 50px;
+}
